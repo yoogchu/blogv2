@@ -1,0 +1,8 @@
+baseURL = "https://yoogchu.github.io"
+languageCode = "en-us"
+title = "chu"
+theme = "elephants"
+publishDir = "docs"
+
+[params]
+	sitename = "eugene"
