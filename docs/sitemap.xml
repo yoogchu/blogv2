@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yoogchu.github.io/posts/hello-world-v2/</loc>
+    <loc>https://yoogchu.github.io/blogv2/posts/hello-world-v2/</loc>
     <lastmod>2018-10-10T01:38:20-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yoogchu.github.io/categories/</loc>
+    <loc>https://yoogchu.github.io/blogv2/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yoogchu.github.io/posts/</loc>
+    <loc>https://yoogchu.github.io/blogv2/posts/</loc>
     <lastmod>2018-10-10T01:38:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yoogchu.github.io/tags/</loc>
+    <loc>https://yoogchu.github.io/blogv2/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yoogchu.github.io/</loc>
+    <loc>https://yoogchu.github.io/blogv2/</loc>
     <lastmod>2018-10-10T01:38:20-04:00</lastmod>
     <priority>0</priority>
   </url>
